@@ -1,0 +1,16 @@
+@import url("styles/header.css");
+
+:root {
+    --cor-fundo: #EBECEE;
+    --branco: #fff;
+    --laranja: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 167.37%);
+}
+
+body {
+    background-color: var(--cor-fundo);
+}
+
+h1 {
+    background-color: white;
+}
